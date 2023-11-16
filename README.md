@@ -15,6 +15,4 @@ Geolocation: Optimize delivery routes and estimate delivery times accurately usi
 License:
 This project is licensed under the MIT License.
 
-Acknowledgments:
-The CoolDrinksCloneApp team extends gratitude to the Flutter community for their continuous support and contributions.
-Acknowledge any specific libraries, packages, or APIs you've integrated into th
+
